@@ -39,4 +39,4 @@ Bu oyun, **Madalayon GameJam** kapsamında geliştirilmiştir.
 ## 🚀 İndir & Oyna
 
 Oyun Itch.io üzerinden oynanabilir:  
-👉 https://your-itch-page-link-here
+👉 [Itch.io Sayfası](https://mekamuto.itch.io/gkte-son-umt)
